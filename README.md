@@ -4,7 +4,7 @@
 
 Components used:
 1. Any Arduino Microcontroller Board (×1)
-2. 2×16 LCD (×1)
+2. I²C 2×16 LCD (×1)
 3. Relay (×1)
 4. Push-button (×2)
 5. Misting system (×1)
